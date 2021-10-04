@@ -18,7 +18,7 @@ dependencies:
   - tensorflow-gpu ==2.2
   - keras
   - pip:
-    - git+https://github.com/AllenInstitute/fissa@0.7.x
+    - git+https://github.com/AllenInstitute/fissa@v0.7.x
     - pyfftw
     - tensorflow-estimator==2.2
     - py-cpuinfo
